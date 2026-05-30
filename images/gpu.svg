@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1a1a4e"/>
+  <rect x="20" y="60" width="160" height="80" rx="10" fill="#2a0040" stroke="#a46bff" stroke-width="3"/>
+  <circle cx="70" cy="100" r="25" fill="#1a0030" stroke="#a46bff" stroke-width="2"/>
+  <circle cx="70" cy="100" r="6" fill="#a46bff"/>
+  <ellipse cx="70" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(0 70 100)"/>
+  <ellipse cx="70" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(60 70 100)"/>
+  <ellipse cx="70" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(120 70 100)"/>
+  <circle cx="130" cy="100" r="25" fill="#1a0030" stroke="#a46bff" stroke-width="2"/>
+  <circle cx="130" cy="100" r="6" fill="#a46bff"/>
+  <ellipse cx="130" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(0 130 100)"/>
+  <ellipse cx="130" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(60 130 100)"/>
+  <ellipse cx="130" cy="78" rx="7" ry="15" fill="#a46bff" opacity="0.6" transform="rotate(120 130 100)"/>
+  <rect x="20" y="148" width="160" height="12" rx="3" fill="#6bffda" opacity="0.5"/>
+  <text x="100" y="178" text-anchor="middle" font-size="13" fill="#a46bff" font-family="monospace" font-weight="bold">GPU</text>
+</svg>

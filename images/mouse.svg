@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1a1a4e"/>
+  <ellipse cx="100" cy="115" rx="40" ry="60" fill="#1a2a00" stroke="#ffe06b" stroke-width="3"/>
+  <ellipse cx="100" cy="85" rx="40" ry="30" fill="#243a00" stroke="#ffe06b" stroke-width="2"/>
+  <line x1="100" y1="60" x2="100" y2="110" stroke="#ffe06b" stroke-width="2.5"/>
+  <rect x="94" y="75" width="12" height="22" rx="6" fill="#ffe06b" opacity="0.8"/>
+  <path d="M100 55 Q140 30 150 15" stroke="#ffe06b" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="100" y="188" text-anchor="middle" font-size="13" fill="#ffe06b" font-family="monospace" font-weight="bold">MOUSE</text>
+</svg>

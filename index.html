@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🖥️ Computer Parts Adventure!</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- Stars background -->
+  <div class="stars" id="stars"></div>
+
+  <!-- Header -->
+  <header>
+    <div class="header-inner">
+      <div class="logo">🖥️ <span>Computer Parts</span> Adventure!</div>
+      <div class="subtitle">Click the parts to learn all about computers! 🚀</div>
+    </div>
+    <div class="score-board">
+      <span>🌟 Parts Learned: </span><span id="score">0</span>/<span id="total">0</span>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    <div class="parts-grid" id="partsGrid"></div>
+  </main>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div class="modal-emoji" id="modalEmoji"></div>
+      <h2 id="modalTitle"></h2>
+      <p class="modal-fun-fact" id="modalFact"></p>
+      <p class="modal-desc" id="modalDesc"></p>
+      <div class="modal-badge">⭐ You learned something new!</div>
+    </div>
+  </div>
+
+  <!-- Celebration -->
+  <div class="celebration" id="celebration">🎉 You're a Computer Genius! 🎉</div>
+
+  <script src="sounds.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

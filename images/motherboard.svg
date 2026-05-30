@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1a1a4e"/>
+  <rect x="15" y="15" width="170" height="170" rx="8" fill="#0d2a00" stroke="#ffe06b" stroke-width="2"/>
+  <line x1="40" y1="40" x2="160" y2="40" stroke="#ffe06b" stroke-width="1.5" opacity="0.4"/>
+  <line x1="40" y1="60" x2="100" y2="60" stroke="#ffe06b" stroke-width="1.5" opacity="0.4"/>
+  <line x1="100" y1="60" x2="100" y2="120" stroke="#ffe06b" stroke-width="1.5" opacity="0.4"/>
+  <line x1="40" y1="160" x2="160" y2="160" stroke="#ffe06b" stroke-width="1.5" opacity="0.4"/>
+  <rect x="60" y="55" width="50" height="50" rx="4" fill="#1a3a00" stroke="#ffe06b" stroke-width="2"/>
+  <text x="85" y="85" text-anchor="middle" font-size="10" fill="#ffe06b" font-family="monospace">CPU</text>
+  <rect x="120" y="55" width="12" height="45" rx="2" fill="#6bffda" opacity="0.5" stroke="#6bffda" stroke-width="1"/>
+  <rect x="136" y="55" width="12" height="45" rx="2" fill="#6bffda" opacity="0.5" stroke="#6bffda" stroke-width="1"/>
+  <rect x="30" y="120" width="30" height="20" rx="3" fill="#ff6bdb" opacity="0.6"/>
+  <rect x="68" y="120" width="30" height="20" rx="3" fill="#6bbfff" opacity="0.6"/>
+  <rect x="106" y="120" width="30" height="20" rx="3" fill="#ff9a6b" opacity="0.6"/>
+  <text x="100" y="188" text-anchor="middle" font-size="9" fill="#ffe06b" font-family="monospace" font-weight="bold">MOTHERBOARD</text>
+</svg>

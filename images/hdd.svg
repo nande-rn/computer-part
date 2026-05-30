@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1a1a4e"/>
+  <rect x="25" y="45" width="150" height="110" rx="10" fill="#0d2040" stroke="#6bbfff" stroke-width="3"/>
+  <circle cx="100" cy="100" r="42" fill="#1a3a6e" stroke="#6bbfff" stroke-width="2"/>
+  <circle cx="100" cy="100" r="28" fill="#0d2040" stroke="#6bbfff" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="10" fill="#6bbfff" opacity="0.6"/>
+  <circle cx="100" cy="100" r="4" fill="#ffe06b"/>
+  <line x1="110" y1="90" x2="155" y2="65" stroke="#ffe06b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="155" cy="65" r="5" fill="#ffe06b"/>
+  <text x="100" y="175" text-anchor="middle" font-size="13" fill="#6bbfff" font-family="monospace" font-weight="bold">HDD</text>
+</svg>

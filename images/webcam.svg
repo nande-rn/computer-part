@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#1a1a4e"/>
+  <rect x="50" y="45" width="100" height="80" rx="14" fill="#1a0a30" stroke="#a46bff" stroke-width="3"/>
+  <circle cx="100" cy="85" r="28" fill="#0d0020" stroke="#a46bff" stroke-width="2.5"/>
+  <circle cx="100" cy="85" r="18" fill="#1a0040" stroke="#a46bff" stroke-width="1.5"/>
+  <circle cx="100" cy="85" r="9" fill="#a46bff" opacity="0.6"/>
+  <circle cx="107" cy="78" r="3" fill="white" opacity="0.5"/>
+  <circle cx="140" cy="58" r="5" fill="#ff4444"/>
+  <rect x="88" y="125" width="24" height="22" rx="4" fill="#2a1a40" stroke="#a46bff" stroke-width="2"/>
+  <ellipse cx="100" cy="148" rx="30" ry="8" fill="#2a1a40" stroke="#a46bff" stroke-width="2"/>
+  <text x="100" y="178" text-anchor="middle" font-size="12" fill="#a46bff" font-family="monospace" font-weight="bold">WEBCAM</text>
+</svg>
